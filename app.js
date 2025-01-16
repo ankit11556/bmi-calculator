@@ -1,4 +1,3 @@
-
 let form = document.querySelector('form');
  let bminame = document.getElementById('bminame')
 form.addEventListener('submit',(e)=>{
